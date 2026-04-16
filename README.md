@@ -42,7 +42,7 @@ Bem-vindo ao **Finans**! Uma interface moderna e intuitiva projetada para transf
 Clique no botão abaixo para testar a interface do Finans em tempo real:
 
 <div align="left">
-  <a href="https://github.com/Domisnnet/Finans-Web-Essentials/" target="_blank">
+  <a href="https://domisnnet.github.io/Finans-Web-Essentials/" target="_blank">
     <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -195,5 +195,5 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 <h2 id="perfil-do-github">14. 👨‍💻 Perfil do GitHub</h2>
 
 <a href="https://github.com/Domisnnet"> 
-  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+  <img src="src/imagens/DomisDev.png" width="90" alt="Acessar perfil GitHub"> 
 </a>
