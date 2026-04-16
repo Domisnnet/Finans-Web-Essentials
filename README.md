@@ -89,7 +89,7 @@ O projeto completo, incluindo assets e arquivos de configuração, está dispon�
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/Domisnnet/Finans-Web-Essentials.git](https://github.com/Domisnnet/Finans-Web-Essentials.git)
+$ git clone https://github.com/Domisnnet/Finans-Web-Essentials.git(https://github.com/Domisnnet/Finans-Web-Essentials.git)
 
 # Acesse a pasta
 cd Finans-Web-Essentials
