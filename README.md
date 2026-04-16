@@ -1,8 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Finans-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Finans-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Finans-Web-Essentials?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. Finans - Simplifique Sua Vida Financeira 💰💰</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Bootstrap-blueviolet)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans-Web-Essentials/blob/main/LICENSE)
 
 ![Finans](src/imagens/finans.png)
 
@@ -38,7 +42,7 @@ Bem-vindo ao **Finans**! Uma interface moderna e intuitiva projetada para transf
 Clique no botão abaixo para testar a interface do Finans em tempo real:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/Finans/" target="_blank">
+  <a href="https://github.com/Domisnnet/Finans-Web-Essentials/" target="_blank">
     <img alt="Botão Acessar" src="src/imagens/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -85,7 +89,10 @@ O projeto completo, incluindo assets e arquivos de configuração, está dispon�
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/Domisnnet/Finans.git](https://github.com/Domisnnet/Finans.git)
+$ git clone [https://github.com/Domisnnet/Finans-Web-Essentials.git](https://github.com/Domisnnet/Finans-Web-Essentials.git)
+
+# Acesse a pasta
+cd Finans-Web-Essentials
 ```
 
 ---
@@ -121,11 +128,11 @@ Siga os passos abaixo para fortalecer este projeto:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Finans/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Finans-Web-Essentials/fork) |
 | **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
 | **03** | **Commit** | `git commit -m 'feat: nova seção de álbuns'` |
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Finans/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Finans-Web-Essentials/compare) |
 
 ---
 
@@ -165,7 +172,7 @@ Siga os passos abaixo para fortalecer este projeto:
 
 <h2 id="codigo-fonte">11. 💻 Código Fonte</h2>
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFinans-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Finans)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFinans--Web--Essentials-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Finans-Web-Essentials)
 
 ---
 
@@ -181,10 +188,12 @@ Siga os passos abaixo para fortalecer este projeto:
 
 <h2 id="licenca">13. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans-Web-Essentials/blob/main/LICENSE)
 
 ---
 
 <h2 id="perfil-do-github">14. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
