@@ -1,13 +1,16 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Finans-Web-Essentials?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Finans-Web-Essentials?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Finans-Web-Essentials?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Domisnnet/Finans-Web-Essentials?style=flat&label=REPO%20SIZE&labelColor=2d333b&color=0969da)
+![Stars](https://img.shields.io/github/stars/Domisnnet/Finans-Web-Essentials?style=flat&label=STARS&labelColor=2d333b&color=0969da)
+![Last Commit](https://img.shields.io/github/last-commit/Domisnnet/Finans-Web-Essentials?style=flat&label=LAST%20COMMIT&labelColor=2d333b&color=2ea44f)
+![Version](https://img.shields.io/badge/VERSION-1.0.0-0969da?style=flat&labelColor=2d333b&logo=github&logoColor=white)
 
 <h2 id="sobre-o-projeto">1. Finans - Simplifique Sua Vida Financeira 💰💰</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen?style=flat&logo=firebase&logoColor=white)
-![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Bootstrap-blueviolet)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&labelColor=2d333b&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&labelColor=2d333b&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=2d333b&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7950F2?style=flat&labelColor=2d333b&logo=bootstrap&logoColor=white)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans-Web-Essentials/blob/main/LICENSE)
-
 ![Finans](src/imagens/finans.png)
 
 Bem-vindo ao **Finans**! Uma interface moderna e intuitiva projetada para transformar a gestão financeira pessoal. Com foco em usabilidade, o projeto demonstra como organizar receitas e despesas de forma clara e responsiva.
