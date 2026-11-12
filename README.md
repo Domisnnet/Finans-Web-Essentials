@@ -4,7 +4,7 @@
 
 <h2 id="sobre-o-projeto">1. Finans - Simplifique Sua Vida Financeira 💰💰</h2>
 
-![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
+![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen?style=flat&logo=firebase&logoColor=white)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20Bootstrap-blueviolet)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans-Web-Essentials/blob/main/LICENSE)
 
