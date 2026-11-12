@@ -13,7 +13,7 @@
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Finans-Web-Essentials/blob/main/LICENSE)
 ![Finans](src/imagens/finans.png)
 
-Bem-vindo ao **Finans**! Uma interface moderna e intuitiva projetada para transformar a gestão financeira pessoal. Com foco em usabilidade, o projeto demonstra como organizar receitas e despesas de forma clara e responsiva.
+> Bem-vindo ao **Finans**! Uma interface moderna e intuitiva projetada para transformar a gestão financeira pessoal. Com foco em usabilidade, o projeto demonstra como organizar receitas e despesas de forma clara e responsiva.
 
 ---
 
